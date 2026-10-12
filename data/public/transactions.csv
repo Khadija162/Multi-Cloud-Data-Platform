@@ -1,0 +1,13 @@
+transaction_id,cloud_region,department,amount_usd,status
+1001,azure-eu,finance,120.50,settled
+1002,aws-us,operations,80.00,pending
+1003,gcp-eu,analytics,50.20,settled
+1004,azure-eu,operations,199.99,settled
+1005,aws-us,analytics,240.00,pending
+1006,gcp-eu,finance,45.00,settled
+1007,azure-eu,finance,75.90,settled
+1008,aws-us,operations,150.00,pending
+1009,gcp-eu,analytics,60.50,settled
+1010,azure-eu,operations,310.00,settled
+1011,aws-us,finance,39.99,settled
+1012,gcp-eu,operations,99.00,pending
